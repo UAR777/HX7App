@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="HX7App.AppHost/HX7App.AppHost.csproj" />
+  <Project Path="HX7App.ServiceDefaults/HX7App.ServiceDefaults.csproj" />
+  <Project Path="HX7App/HX7App.csproj" />
+</Solution>
